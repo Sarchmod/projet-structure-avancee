@@ -1,1 +1,7 @@
 Nathan: La convention de nommage des branches et le format des messages de commit facilitent la compréhension entre les membres du groupe du projet. Cela permet ainsi d'avancer plus rapidement et d'éviter de perdre ceux qui maintiendront le projet plus tard.
+
+Julien : ajout de mes notes d'apprentissage càd le C, le python, le Rust, l'osint
+
+Idées Ilies: 
+- Peut etre reviser le C aujourd'hui, car aussi non on est mort
+PS: Vive les canards en plastiques

@@ -1,0 +1,18 @@
+-Julien
+L'OSINT en action : Retrouver une personne disparue
+
+L'OSINT (Open Source Intelligence) consiste à collecter et analyser des informations publiques.
+Voici un cas d'usage concret dans une enquête de personne disparue :
+
+1. Réseaux sociaux : Analyse des derniers posts, géolocalisation des photos, cercle d'amis
+2. Métadonnées : Extraction des données EXIF des images pour retrouver lieu et date
+3. Recherche inversée : Utilisation de Google Images ou TinEye pour identifier des lieux
+4. Forums et communautés : Recherche du pseudonyme sur Reddit, Discord, forums spécialisés
+5. Bases de données publiques : Registres d'entreprises, annuaires, archives web (Wayback Machine)
+
+Exemple réel : En 2019, des enquêteurs ont localisé un fugitif grâce à un reflet dans ses lunettes
+visible sur une photo Instagram. La géolocalisation et l'analyse des métadonnées ont permis
+d'identifier le quartier exact où il se cachait.
+
+L'OSINT nécessite rigueur, éthique et respect de la vie privée. C'est un outil puissant
+qui doit être utilisé dans un cadre légal et déontologique strict.
