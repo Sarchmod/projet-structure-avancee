@@ -1,2 +1,5 @@
-Julien : ajout de mes notes d'apprentissage
+Julien : ajout de mes notes d'apprentissage càd le C, le python, le Rust, l'osint
 
+Idées Ilies: 
+- Peut etre reviser le C aujourd'hui, car aussi non on est mort
+PS: Vive les canards en plastiques
