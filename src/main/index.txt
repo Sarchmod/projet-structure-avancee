@@ -1,7 +1,13 @@
+=== Introduction de Nathan ===
+Bonjour, je m'appelle Nathan et je suis l'un des membres de l'équipe travaillant sur ce projet de structure avancée. Je suis actuellement à l'école d'ingénieurs 3iL de Rodez et travaille en alternance chez Airbus.
+Je suis passionné par la robotique, l'IA et tout ce qui touche de près ou de loin à l'informatique.
+Ce projet Github me permet d'approfondir mes compétences en versionning et en travail d'équipe.
+
 === Introduction de Julien ===
 Bonjour, je m'appelle Julien et je suis étudiant en école d'ingénieur à 3IL en alternance avec Dassault-Aviation à Mérignac.
 Je suis passionné par le réseau/cyber/osint  et j'apprends Git pour mieux collaborer.
-Ce projet me permet de mettre en pratique mes compétences en github, en cohésion de groupe .
+Ce projet me permet de mettre en pratique mes compétences en github, en cohésion de groupe.
+
 === Introduction de Ilies ===
 Je m'appelle Iliès
 J'ai 20 ans et je suis heureux d'etre à 3iL.
