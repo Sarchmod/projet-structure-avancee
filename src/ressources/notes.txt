@@ -1,0 +1,1 @@
+Nathan: La convention de nommage des branches et le format des messages de commit facilitent la compréhension entre les membres du groupe du projet. Cela permet ainsi d'avancer plus rapidement et d'éviter de perdre ceux qui maintiendront le projet plus tard.
