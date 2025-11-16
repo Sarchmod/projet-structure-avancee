@@ -1,0 +1,4 @@
+=== Introduction de Julien ===
+Bonjour, je m'appelle Julien et je suis étudiant en école d'ingénieur à 3IL en alternance avec Dassault-Aviation à Mérignac.
+Je suis passionné par le réseau/cyber/osint  et j'apprends Git pour mieux collaborer.
+Ce projet me permet de mettre en pratique mes compétences en github, en cohésion de groupe .
