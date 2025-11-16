@@ -1,0 +1,5 @@
+Bonjour, je m'appelle Nathan et je suis l'un des membres de l'équipe travaillant sur ce projet de structure avancée. Je suis actuellement à l'école d'ingénieurs 3iL de Rodez et travaille en alternance chez Airbus.
+
+Je suis passionné par la robotique, l'IA et tout ce qui touche de près ou de loin à l'informatique.
+
+Ce projet Github me permet d'approfondir mes compétences en versionning et en travail d'équipe.
